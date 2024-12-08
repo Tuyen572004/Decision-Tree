@@ -1,0 +1,73 @@
+digraph {
+	node [shape=box]
+	1811657096896 [label="concave_points3 ≤ 0.1453
+entropy = 0.954
+samples = 227
+value = [ 85 142]
+class = M"]
+	1811641586496 [label="radius3 ≤ 16.46
+entropy = 0.376
+samples = 151
+value = [ 11 140]
+class = M"]
+	1811657096896 -> 1811641586496 [label=True]
+	1811657669760 [label="texture3 ≤ 33.33
+entropy = 0.062
+samples = 138
+value = [  1 137]
+class = M"]
+	1811641586496 -> 1811657669760 [label=True]
+	1811640273040 [label="entropy = -0.000
+samples = 130
+value = [  0 130]
+class = M"]
+	1811657669760 -> 1811640273040 [label=True]
+	1811578344640 [label="fractal_dimension1 ≤ 0.06059
+entropy = 0.544
+samples = 8
+value = [1 7]
+class = M"]
+	1811657669760 -> 1811578344640 [label=False]
+	1811656374032 [label="entropy = -0.000
+samples = 7
+value = [0 7]
+class = M"]
+	1811578344640 -> 1811656374032 [label=True]
+	1811642050000 [label="entropy = -0.000
+samples = 1
+value = [1]
+class = B"]
+	1811578344640 -> 1811642050000 [label=False]
+	1811642052064 [label="concavity3 ≤ 0.1882
+entropy = 0.779
+samples = 13
+value = [10  3]
+class = B"]
+	1811641586496 -> 1811642052064 [label=False]
+	1811642047456 [label="entropy = -0.000
+samples = 3
+value = [0 3]
+class = M"]
+	1811642052064 -> 1811642047456 [label=True]
+	1811641122448 [label="entropy = -0.000
+samples = 10
+value = [10]
+class = B"]
+	1811642052064 -> 1811641122448 [label=False]
+	1811641116256 [label="concavity2 ≤ 0.1166
+entropy = 0.176
+samples = 76
+value = [74  2]
+class = B"]
+	1811657096896 -> 1811641116256 [label=False]
+	1811639810384 [label="entropy = -0.000
+samples = 74
+value = [74]
+class = B"]
+	1811641116256 -> 1811639810384 [label=True]
+	1811639806976 [label="entropy = -0.000
+samples = 2
+value = [0 2]
+class = M"]
+	1811641116256 -> 1811639806976 [label=False]
+}
