@@ -1,4 +1,10 @@
-## How to run this project
+## Chú ý:
+- Vì dung lượng quá lớn nên folder này chúng em xin phép chỉ để source code và báo cáo.
+- Folder có đầy đủ nội dung (report, source code, file ảnh) chúng em xin phép đưa lên drive.
+- Link drive: https://drive.google.com/drive/folders/1LmTEQ7KP5oXctQIecm0dTtnPyVXJJ8uC?usp=sharing
+
+
+## Các thư viện cần thiết
 
 1. scikit-learn: Thư viện chính để xây dựng và huấn luyện mô hình cây quyết định.
 -	Cài đặt: pip install scikit-learn
